@@ -1,0 +1,27 @@
+{
+  "name": "asynchronismproject",
+  "version": "1.0.0",
+  "description": "Working with asynchronism in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliocanizalez/asynchronismProject.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "Julio Canizalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliocanizalez/asynchronismProject/issues"
+  },
+  "homepage": "https://github.com/juliocanizalez/asynchronismProject#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
